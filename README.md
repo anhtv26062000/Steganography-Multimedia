@@ -5,5 +5,6 @@
 2. Nguyễn Huỳnh Anh - 18520456
 3. Trần Minh Tiến - 18521492
 ## Demo:
-- Due to Github can't read file Steganogrphy.ipynb, so you can click to the below link to view demo and source code:
+- Source code is file named "steganography_final.py"
+- Due to Github can't read file Steganogrphy.ipynb, so you can click to the below link to view demo:
 https://colab.research.google.com/drive/1VVPG4OTnppuyBMrtfKhd17izbD0m-FJP

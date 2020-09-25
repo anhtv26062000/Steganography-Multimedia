@@ -4,3 +4,6 @@
 1. Tô Viết Anh - 18520471
 2. Nguyễn Huỳnh Anh - 18520456
 3. Trần Minh Tiến - 18521492
+## Demo:
+- Due to Github can't read file Steganogrphy.ipynb, so you can click to the below link to view demo and source code:
+https://colab.research.google.com/drive/1VVPG4OTnppuyBMrtfKhd17izbD0m-FJP
